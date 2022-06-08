@@ -13,3 +13,7 @@ too_young = 20
 just_right = 25
 
 ## Float Variables
+
+pauls_bank_account = 42.24
+carters_bank_account = 28000.37
+chases_bank_account = 10000.32
